@@ -53,16 +53,16 @@ Ich möchte ausdrücklich darauf hinweisen, dass die hier gemachten Angaben übe
 
 Die Eigenschaften der verschiedenen Filme lassen sich grob nach Marken einordnen. Die Aussagen im ganzen Text beziehen sich, sofern nicht anders angegeben, auf Diafilme, dürften aber auch auf Farbnegativfilm übertragbar sein.
 
- - **Agfa CTX**  
-    Er ist weich, hat einen eher schwachen Kontrast. Er eignet sich für Portraitfotografie. Die Migros-Diafilme sind Agfa. Hat eher einen leichten Grünstich. 
- - **Fujichrome Sensia**  
-    Er ist ein gutes Mittelding, guter Kontrast. Hat einen eher violetten Grundton. 
- - **Fujichrome G 1600**  
-    Recht scharf, doch in den Farben zum Teil etwas zweifelhaft. 
- - **Kodachrome**  
-    Extrem scharfer Film, extrem guter Kontrast, hart, starke Farben. Er ist etwas für angefressene Schärfefanatiker. Er ist "der" Film für Objektivtests. Etwas kalte, bläuliche Farbwiedergabe. Er kann nur von Kodak entwickelt werden, weil er eine speziellen Prozess braucht. (nicht E6). 
- - **Kodachrome Elite**  
-    "Der Kommerz-Kodachrome fürs Volk". Etwas wärmere Farbwiedergabe und nicht ganz so extrem wie der Kodachrome. 
+- **Agfa CTX**  
+Er ist weich, hat einen eher schwachen Kontrast. Er eignet sich für Portraitfotografie. Die Migros-Diafilme sind Agfa. Hat eher einen leichten Grünstich. 
+- **Fujichrome Sensia**  
+Er ist ein gutes Mittelding, guter Kontrast. Hat einen eher violetten Grundton. 
+- **Fujichrome G 1600**  
+Recht scharf, doch in den Farben zum Teil etwas zweifelhaft. 
+- **Kodachrome**  
+ Extrem scharfer Film, extrem guter Kontrast, hart, starke Farben. Er ist etwas für angefressene Schärfefanatiker. Er ist "der" Film für Objektivtests. Etwas kalte, bläuliche Farbwiedergabe. Er kann nur von Kodak entwickelt werden, weil er eine speziellen Prozess braucht. (nicht E6). 
+- **Kodachrome Elite**  
+"Der Kommerz-Kodachrome fürs Volk". Etwas wärmere Farbwiedergabe und nicht ganz so extrem wie der Kodachrome. 
 
 ## BLITZEN
 Allzu kurze Brennweiten (35mm und darunter) sind nach Möglichkeit zu vermeiden. Viele Blitze können dann nicht mehr voll die Bildecken ausleuchten. Auch wird die Gefahr grösser, dass die Gegenstände im Vordergrund zu hell und diejenigen im Hintergrund zu dunkel abgebildet werden. Vorsicht mit grossen, voluminösen Objektiven. Sie können im Bild Schatten verursachen, besonders, wenn der Blitz sich nahe bei der Objektivachse befindet. Sonnenblenden aus dem gleichen Grund abnehmen.
