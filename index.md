@@ -42,9 +42,10 @@ Unbedingt ein Stativ mitnehmen und einen feinkörnigen, scharfen Film. z.B. Koda
 
 ## GOLDENER SCHNITT
 Es wirkt meist besonders vorteilhaft, wenn das Hauptmotiv des Bildes nicht genau in der Mitte des Bildes plaziert wird. Auch Maler und andere grafische Künstler wenden das Prinzip des goldenen Schnittes an. Die untenstehende Grafik zeigt die Goldenen Linien und die vier Schnittpunkte. Eine mögliche Anwendung dieses Prinzips zeigt die danebenstehende Fotografie.
-cordia.gif - 2141,0 K
-Darstellung des "Goldenen Schnittes". 	astro.jpg - 4642,0 K
-Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.
+
+![Darstellung des "Goldenen Schnittes"](cordia.gif)
+
+![Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.](astro.gif)
 
 Der Goldene Schnitt teilt die Seiten im Verhältnis von ca. 3:8. Es sollte zudem beachtet werden dass die abgebildete Person nicht zum Bild hinausschaut. In Blickrichtung sollte noch etwas "Raum" auf der Fotografie vorhanden sein. Würde also die Person nach rechts schauen, so sollte sie in der linken Bildhälfte abgebildet sein.
 
