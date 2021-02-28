@@ -90,66 +90,69 @@ Ich bin erstaunt, was man mit einer SLR und einem 28erli (28mm Objektiv) alles a
 
 ## FACHBEGRIFFE ERKLÄRT
 
-Autofokus (AF)
-    Automatische Scharfstell-Funktion; hat heutzutage fast jede Kamera. 
-Belichtung
-    Ein gutes Bild soll eine angenehme Belichtung aufweisen, die die Realität möglichst exakt wiedergibt. Die Belichtungsautomatik geht davon aus, dass das Sujet 19% des vorhandenen Lichts reflektiert. Dies ist aber nur ein Durchschnittswert. Wenn das Sujet viel weisse Flächen enthält, wie zum Beispiel eine Hausfassade oder eine Statue aus weissem Stein, so scheint sie auf dem fertigen Foto gräulich, weil die Belichtungsautomatik so belichtet hat, wie wenn nur 19% des Lichtes reflektiert wurden. In unserem Fall war es aber mehr. In diesen Fällen muss der Fotograf eingreifen und das Bild quasi etwas überbelichten, damit das Bild auch so aussieht, wie der er das Sujet gesehen hat. Umgekehrt muss der Fotograf bei viel dunkler Fläche leicht unterbelichten.
-    Als Belichtung wird auch der Moment bezeichnet, in dem das Licht auf den Film fallen kann, also der Verschluss geöffnet ist. 
-Bildfolge
-    Gesamtbezeichnung für mehrere aufeinanderfolgende Belichtungen. 
-Bildfrequenz
-    Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bedeutet, dass 3 Bilder in der Sekunde belichtet werden. Zwischen den Belichtungen muss natürlich immer der Film transportiert werden. 
-Brennweite
-    Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
-    wide.jpg - 3331,0 K
-    Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv). 	tele.jpg - 428,0 K
-    Ansicht mir langer Brennweite (Tele-Objektiv).
-    Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
-Blende
-    Die Blende ist vergleichbar mit der Iris des Auges. Sie reguliert die pro Sekunde einfallende Lichtmenge. Eine grosse Zahl z.B. 22 bedeutet, dass die Blende stark geschlossen ist. Eine kleine Zahl z.B. 2.8 bedeutet, dass sie weit offen ist. 
-Filmempfindlichkeit
-    Sie sagt, wie gross dass die Lichtmenge sein muss, damit der Film korrekt belichtet wird. Sie wird in ISO angegeben. Ein Film mit der Empfindlichkeit ISO 100 hat eine um viermal geringere Empfindlichkeit als ein Film mit ISO 400. Bei der gleichen Blendeneinstellung muss der 400er also nur ein Viertel so lang belichtet werden wie ein 100er. 
-Fischauge
-    Ein Fischaugenobjektiv erzeugt Bilder, die zu den Ecken hin gekrümmt erscheinen. Dies ergibt einen etwas bizarren Effekt, der Fischaugeneffekt genannt wird. Dieser Effekt kommt jedoch nur bei extrem kurzen Brennweiten zum Tragen. 
-Kleinbild(film)
-    Bezeichnung für das gebräuchlichste Filmformat. Das Negativbild ist 24mm x 36mm gross. Die Filmdosen tragen die Aufschrift 135. Es gibt auch grössere Filmformate, zum Beispiel das Mittelformat. Der Vorteil eines grösseren Negativs ist die schärfere Wiedergabe. Es bringt aber grössere und damit schwerere Kameras und Objektive mit sich. 
-Gegenlicht
-    Als Gegenlicht wird Licht bezeichnet, das direkt von vorne, also gegen die Kamera kommt, zum Beispiel, wenn eine Person gegen die Sonne fotografiert wird. 
-Kompaktkameras
-    Kleine Kameras, die alles Benötigte schon dabeihaben und nicht ausbaufähig sind. Also die Kameras der meisten "Öppedie"-Fotografen. Es zum Teil recht erstaunlich, was die Kleinen alles für Schikanen intus haben. Doch die Bildqualität reicht natürlich nicht an eine gute SLR heran. 
-Lichtstärke
-    Die Lichtstärke bezeichnet die kleinstmögliche Blendenzahl, also wie viel Licht das Objektiv maximal auf den Film bringt. Es ist ein wichtiges Kriterium bei der Objektivwahl. Je kleiner die Zahl, um so besser. Die Lichtstärke wird oft in der Form f/x angegeben, wobei x die Lichtstärke bezeichnet. 
-Makro
-    Makrofotografie bedeutet das Fotografieren von kleinen Objekten. Viele Kompaktzoomkameras haben eine so bezeichnete Funktion, bei der man näher als sonst an den Gegenstand herantreten kann. Aber echtes Makro ist, wenn man eine etwas grössere Briefmarke in voller Grösse abbilden kann. Alles andere darf man als Nahaufnahme bezeichnen. 
-Nahdistanz
-    Bezeichnet die minimale Distanz, die man mit der Kamera an das Motiv herantreten kann, ohne dass das Bild unscharf wird. 
-Normalobjektiv
-    Dieses hat eine Brennweite die in etwa dem Sichtwinkel des menschlichen Auges entspricht. Das ist etwa 50mm. 
-Objektivachse
-    Die verlängerte Linie der Objektivmitte. 
-Schärfentiefe
-    Sie bezeichnet die Differenz der minimalen zur maximalen Distanz, wo noch scharf abgebildet wird. Als "Scharf" wird alles bezeichnet, was auf dem normalen Kleinbildformat kleinere Punkte als 1/30mm erzeugt. Je stärker abgeblendet wird, also je grösser die Blendenzahl, um so grösser wird die Schärfentiefe. 
-Seitenlicht
-    Als Seitenlicht wird das Licht bezeichnet, welches von der Seite ins Bild fällt. 
-Selbstauslöser
-    10 Sekunden nach dem Drücken der Selbstauslösertaste wird das Bild aufgenommen. Praktisch, für Gruppenfotos oder wenn die Kamera auf etwas wackeligem Untergrund abgestellt wird, um Verwackelungen zu vermeiden. 
-SLR
-    SpiegelReflexKamera. Diese Kameras besitzen auswechselbare Objektive. Sie sind dadurch sehr flexibel. Durch den Sucher sieht man exakt das Bild, welches auch auf dem Film abgebildet wird. Vor dem Belichten wird das Licht über einen Spiegel in den Sucher umgelenkt. Im Moment des Auslösens wird dieser hochgeklappt und der Verschluss geöffnet. 
-Stativ
-    Es gibt Drei- und Einbeinstative. Sie helfen, die Kamera ruhig zu halten. 
-Teleobjektiv
-    Objektive ab ca. 100mm Brennweite. 
-Verschluss
-    Der Verschluss ist eine dünne, undurchsichtige eine Schicht aus kleinen Lamellen. Beim Auslösen werden diese Lamellen schnell hochgezogen, um das Licht für eine kurzen Moment durchzulassen. 
-Verschlusszeit
-    Die Verschlusszeit wird als die Zeit bezeichnet, während der Licht auf den Film fallen kann. Verschlusszeit, Blende und Filmempfindlichkeit stehen in engem Zusammenhang, wenn die Automatik oder der erfahrene Fotograf die richtige Belichtung wählen will. 
-Weitwinkelobjetiv
-    Objektive mit einer Brennweite von 28mm und weniger. 
-Zoom-Objektive
-    Objektive, deren Brennweite innerhalb eines bestimmten Bereiches verändert werden kann. 
+- **Autofokus (AF)**  
+Automatische Scharfstell-Funktion; hat heutzutage fast jede Kamera. 
+- **Belichtung**  
+Ein gutes Bild soll eine angenehme Belichtung aufweisen, die die Realität möglichst exakt wiedergibt. Die Belichtungsautomatik geht davon aus, dass das Sujet 19% des vorhandenen Lichts reflektiert. Dies ist aber nur ein Durchschnittswert. Wenn das Sujet viel weisse Flächen enthält, wie zum Beispiel eine Hausfassade oder eine Statue aus weissem Stein, so scheint sie auf dem fertigen Foto gräulich, weil die Belichtungsautomatik so belichtet hat, wie wenn nur 19% des Lichtes reflektiert wurden. In unserem Fall war es aber mehr. In diesen Fällen muss der Fotograf eingreifen und das Bild quasi etwas überbelichten, damit das Bild auch so aussieht, wie der er das Sujet gesehen hat. Umgekehrt muss der Fotograf bei viel dunkler Fläche leicht unterbelichten.
+Als Belichtung wird auch der Moment bezeichnet, in dem das Licht auf den Film fallen kann, also der Verschluss geöffnet ist. 
+- **Bildfolge**  
+Gesamtbezeichnung für mehrere aufeinanderfolgende Belichtungen. 
+- **Bildfrequenz**  
+Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bedeutet, dass 3 Bilder in der Sekunde belichtet werden. Zwischen den Belichtungen muss natürlich immer der Film transportiert werden. 
+- **Brennweite**  
+Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
+wide.jpg - 3331,0 K
+Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv). 	tele.jpg - 428,0 K
+Ansicht mir langer Brennweite (Tele-Objektiv).
+Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
+- **Blende**  
+Die Blende ist vergleichbar mit der Iris des Auges. Sie reguliert die pro Sekunde einfallende Lichtmenge. Eine grosse Zahl z.B. 22 bedeutet, dass die Blende stark geschlossen ist. Eine kleine Zahl z.B. 2.8 bedeutet, dass sie weit offen ist. 
+- **Filmempfindlichkeit**  
+Sie sagt, wie gross dass die Lichtmenge sein muss, damit der Film korrekt belichtet wird. Sie wird in ISO angegeben. Ein Film mit der Empfindlichkeit ISO 100 hat eine um viermal geringere Empfindlichkeit als ein Film mit ISO 400. Bei der gleichen Blendeneinstellung muss der 400er also nur ein Viertel so lang belichtet werden wie ein 100er. 
+- **Fischauge**  
+Ein Fischaugenobjektiv erzeugt Bilder, die zu den Ecken hin gekrümmt erscheinen. Dies ergibt einen etwas bizarren Effekt, der Fischaugeneffekt genannt wird. Dieser Effekt kommt jedoch nur bei extrem kurzen Brennweiten zum Tragen. 
+- **Kleinbild(film)**  
+Bezeichnung für das gebräuchlichste Filmformat. Das Negativbild ist 24mm x 36mm gross. Die Filmdosen tragen die Aufschrift 135. Es gibt auch grössere Filmformate, zum Beispiel das Mittelformat. Der Vorteil eines grösseren Negativs ist die schärfere Wiedergabe. Es bringt aber grössere und damit schwerere Kameras und Objektive mit sich. 
+- **Gegenlicht**  
+Als Gegenlicht wird Licht bezeichnet, das direkt von vorne, also gegen die Kamera kommt, zum Beispiel, wenn eine Person gegen die Sonne fotografiert wird. 
+- **Kompaktkameras**  
+Kleine Kameras, die alles Benötigte schon dabeihaben und nicht ausbaufähig sind. Also die Kameras der meisten "Öppedie"-Fotografen. Es zum Teil recht erstaunlich, was die Kleinen alles für Schikanen intus haben. Doch die Bildqualität reicht natürlich nicht an eine gute SLR heran. 
+- **Lichtstärke**  
+Die Lichtstärke bezeichnet die kleinstmögliche Blendenzahl, also wie viel Licht das Objektiv maximal auf den Film bringt. Es ist ein wichtiges Kriterium bei der Objektivwahl. Je kleiner die Zahl, um so besser. Die Lichtstärke wird oft in der Form f/x angegeben, wobei x die Lichtstärke bezeichnet. 
+- **Makro**  
+Makrofotografie bedeutet das Fotografieren von kleinen Objekten. Viele Kompaktzoomkameras haben eine so bezeichnete Funktion, bei der man näher als sonst an den Gegenstand herantreten kann. Aber echtes Makro ist, wenn man eine etwas grössere Briefmarke in voller Grösse abbilden kann. Alles andere darf man als Nahaufnahme bezeichnen. 
+- **Nahdistanz**  
+Bezeichnet die minimale Distanz, die man mit der Kamera an das Motiv herantreten kann, ohne dass das Bild unscharf wird. 
+- **Normalobjektiv**  
+Dieses hat eine Brennweite die in etwa dem Sichtwinkel des menschlichen Auges entspricht. Das ist etwa 50mm. 
+- **Objektivachse**  
+Die verlängerte Linie der Objektivmitte. 
+- **Schärfentiefe**  
+Sie bezeichnet die Differenz der minimalen zur maximalen Distanz, wo noch scharf abgebildet wird. Als "Scharf" wird alles bezeichnet, was auf dem normalen Kleinbildformat kleinere Punkte als 1/30mm erzeugt. Je stärker abgeblendet wird, also je grösser die Blendenzahl, um so grösser wird die Schärfentiefe. 
+- **Seitenlicht**  
+Als Seitenlicht wird das Licht bezeichnet, welches von der Seite ins Bild fällt. 
+- **Selbstauslöser**  
+10 Sekunden nach dem Drücken der Selbstauslösertaste wird das Bild aufgenommen. Praktisch, für Gruppenfotos oder wenn die Kamera auf etwas wackeligem Untergrund abgestellt wird, um Verwackelungen zu vermeiden. 
+- **SLR**  
+SpiegelReflexKamera. Diese Kameras besitzen auswechselbare Objektive. Sie sind dadurch sehr flexibel. Durch den Sucher sieht man exakt das Bild, welches auch auf dem Film abgebildet wird. Vor dem Belichten wird das Licht über einen Spiegel in den Sucher umgelenkt. Im Moment des Auslösens wird dieser hochgeklappt und der Verschluss geöffnet. 
+- **Stativ**  
+Es gibt Drei- und Einbeinstative. Sie helfen, die Kamera ruhig zu halten. 
+- **Teleobjektiv**  
+Objektive ab ca. 100mm Brennweite. 
+- **Verschluss**  
+Der Verschluss ist eine dünne, undurchsichtige eine Schicht aus kleinen Lamellen. Beim Auslösen werden diese Lamellen schnell hochgezogen, um das Licht für eine kurzen Moment durchzulassen. 
+- **Verschlusszeit**  
+Die Verschlusszeit wird als die Zeit bezeichnet, während der Licht auf den Film fallen kann. Verschlusszeit, Blende und Filmempfindlichkeit stehen in engem Zusammenhang, wenn die Automatik oder der erfahrene Fotograf die richtige Belichtung wählen will. 
+- **Weitwinkelobjetiv**  
+Objektive mit einer Brennweite von 28mm und weniger. 
+- **Zoom-Objektive**  
+Objektive, deren Brennweite innerhalb eines bestimmten Bereiches verändert werden kann. 
 
-KOMMENTAR AN DEN AUTOR
-Anmerkungen, Kommentare und Ergänzungswünsche werden vom Autor gerne entgegengenommen. Füllen Sie dazu einfach das untenstehende Formular aus. Vielen Dank!
+## KOMMENTAR AN DEN AUTOR
+Anmerkungen, Kommentare und Ergänzungswünsche werden vom Autor gerne entgegengenommen: [fototips@marcelsuter.ch](mailto:fototips@marcelsuter.ch) Vielen Dank!
+
+
+
 Name:
 
 E-Mail:
