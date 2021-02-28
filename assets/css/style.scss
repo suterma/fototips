@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+/*Font lager*/
+body {
+    font-size: 20px;
+}
+/* Content wider */
+div.shell {
+    width: 870px;
+}
