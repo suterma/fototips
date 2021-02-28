@@ -45,7 +45,7 @@ Es wirkt meist besonders vorteilhaft, wenn das Hauptmotiv des Bildes nicht genau
 
 ![Darstellung des "Goldenen Schnittes"](cordia.gif)
 
-![Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.](astro.gif)
+![Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.](astro.jpg)
 
 Der Goldene Schnitt teilt die Seiten im Verhältnis von ca. 3:8. Es sollte zudem beachtet werden dass die abgebildete Person nicht zum Bild hinausschaut. In Blickrichtung sollte noch etwas "Raum" auf der Fotografie vorhanden sein. Würde also die Person nach rechts schauen, so sollte sie in der linken Bildhälfte abgebildet sein.
 
@@ -102,9 +102,10 @@ Gesamtbezeichnung für mehrere aufeinanderfolgende Belichtungen.
 Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bedeutet, dass 3 Bilder in der Sekunde belichtet werden. Zwischen den Belichtungen muss natürlich immer der Film transportiert werden. 
 - **Brennweite**  
 Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
-wide.jpg - 3331,0 K
-Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv). 	tele.jpg - 428,0 K
-Ansicht mir langer Brennweite (Tele-Objektiv).
+
+![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)"](wide.jpg)
+![Ansicht mir langer Brennweite (Tele-Objektiv)](tele.jpg)
+
 Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
 - **Blende**  
 Die Blende ist vergleichbar mit der Iris des Auges. Sie reguliert die pro Sekunde einfallende Lichtmenge. Eine grosse Zahl z.B. 22 bedeutet, dass die Blende stark geschlossen ist. Eine kleine Zahl z.B. 2.8 bedeutet, dass sie weit offen ist. 
