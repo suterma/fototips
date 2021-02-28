@@ -15,20 +15,20 @@ Dieser Text behandelt einige wichtige Grundfragen zur Fotografie. Klicken Sie ei
     Reisefotografie
     Kommentar an den Autor 
 
-# PORTRAIT
+## PORTRAIT
 Die Standardbrennweite für Portraits beträgt so zwischen 70 und 100 oder auch je nach Situation mehr. Kompaktkameras ohne Zoom haben kurze Brennweiten zwischen 32 und 38mm und sind daher zum Portraitieren meist nicht gerade geeignet. Portraits mit solchen Kameras sollten daher aus einer gewissen Entfernung geschossen werden, so dass der ganze Körper der Person abgebildet ist. Vor allem auch, weil die Nahdistanz meist etwa einen Meter oder mehr beträgt.
 
 Mit SLR-Kameras sind sehr schöne Portraits möglich. Dabei ist vor allem auf eine grosse Blendenöffnung zu achten, damit der Hintergrund unscharf wird und das Gesicht "freigestellt" wird. Das Automatikprogramm wird dabei des öfteren blitzen. Das kann bei Gegenlicht oder starkem Seitenlicht hilfreich sein. Als Portraitfilme eignen sich im besonderen Agfa, Migros(Agfa) oder Fuij.
 
 Ich habe auch gute Erfahrung bei Portraits mit kurzen Brennweiten gemacht. Dabei ist vor allem darauf zu achten, dass die ganze Person auf dem Bild ist und die Kamera sich auf der Augenhöhe des Gegenübers befindet. Diese Portraits geben eine erfrischende Nähe und wirken ein wenig karikativ. -)Ausprobieren.
 
-# LANDSCHAFT
+## LANDSCHAFT
 Ich mag dabei vor allem Kodak-Filme. Sie sind eher harte Filme mit einem guten Kontrast, das wirkt dem Dunst entgegen. Ausserdem hat er eine kräftige Farbwiedergabe. In der Landschaftsfotografie ist alles erlaubt, was gute Bilder ergibt. Ich benutze dabei oft ganz bis mittelkurze Brennweiten vom 24mm bis 35mm. Im GEO findet man aber des oft geniale Landschaftsbilder mit langen bis sehr langen Brennweiten, welche die Landschaft in scheinbar nur 2 Dimensionen zusammenfassen.
 
-# GESELLSCHAFTSANLASS
+## GESELLSCHAFTSANLASS
 Dabei ist ein Blitz unumgänglich, da oft im inneren fotografiert werden muss. Hohe Filmempfindlichkeiten sind sehr hilfreich. ISO 400 ist ein üblicher Wert, den auch die einfachste "Kleinbildknipse" noch verträgt. Für eventuelle Aussenaufnahmen ist aber ein Agfa 100er eine gute Wahl. Darauf achten, dass man von jeder Person eine Aufnahme hat, wo sie drauf ist. Falls ein Profifotograf dabei ist, kann es hilfreich sein sich ein wenig in seiner Nähe aufzuhalten. Eventuell kommt man ins Gespräch oder ist da wo es "heiss" ist. (Gratulationen, K&uum;sschen, Geschenke, Ansprachen, Handschläge, Unterzeichnungen, Übergaben). Solche "wichtigen" Ereignisse sollte man nicht verpassen. Auch einige Personen, die einem besonders auffallen, können fotografiert werden. Keine für jemanden peinlichen Fotos!.
 
-# KONZERT
+## KONZERT
 Mit Kompaktkameras verwendet man am besten einen 400er und blitzt. Allerdings wird dadurch die Konzertatmosphäre zerstört. Eventuell Kamera einfach hochhalten und knipsen.
 
 Für SLR's gilt folgendes: Unbedingt einen Film mit sehr hoher Empfindlichkeit verwenden. Um ISO 1000 oder noch mehr sind gut. Diese Filme haben zwar eine nicht so tolle Farbwiedergabe, dafür werden Verschlusszeiten erreicht, die eine nicht verwackelte Foto ohne Blitz ermöglichen. Es gibt nichts hässlicheres als verwackelte Fotos.
@@ -37,10 +37,10 @@ Kurze Brennweiten ergeben auch hier den Eindruck rälicher Nähe, wenn man in de
 
 Mit dem Stativ ist das so eine Sache. Wenn du an der Fuer im Saal nicht teilnehmen willst, so ist es sicher von Vorteil es dabeizuhaben. Besonders Aufnahmen mit Teleobjektiv sind so "sicherer". Wenn du aber "mitpowgen" willst, nimm es nicht mit. In der Menschenmasse ist es nur hinderlich oder du handelst dir sogar Ärger ein.
 
-# KIRCHEN
+## KIRCHEN
 Unbedingt ein Stativ mitnehmen und einen feinkörnigen, scharfen Film. z.B. Kodachrome 64. Blitzen ist oft nicht erlaubt, aber für das gute Foto braucht man auch keinen. Suche nach interessanten Perspektiven. Von unten nach oben oder einer Mauer entlang oder oder oder. Mit der Zeit entwickelt man eine eigenen Stil! Die meisten guten Kirchenfotografien sind aus ungewühnlichen Perspektiven aufgenommen. Meist soll möglichst alles scharf abgebildet sein. Dazu peilt man einen Punkt in mittlerer Entfernung an und fokussiert. Dann blendet man am besten auf f/11 oder f/16 ab. Eventuell mit Selbstauslöser fotografieren, um Verwackelungen durch das Drücken des Auslösers zu vermeiden.
 
-# GOLDENER SCHNITT
+## GOLDENER SCHNITT
 Es wirkt meist besonders vorteilhaft, wenn das Hauptmotiv des Bildes nicht genau in der Mitte des Bildes plaziert wird. Auch Maler und andere grafische Künstler wenden das Prinzip des goldenen Schnittes an. Die untenstehende Grafik zeigt die Goldenen Linien und die vier Schnittpunkte. Eine mögliche Anwendung dieses Prinzips zeigt die danebenstehende Fotografie.
 cordia.gif - 2141,0 K
 Darstellung des "Goldenen Schnittes". 	astro.jpg - 4642,0 K
@@ -48,7 +48,7 @@ Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kop
 
 Der Goldene Schnitt teilt die Seiten im Verhältnis von ca. 3:8. Es sollte zudem beachtet werden dass die abgebildete Person nicht zum Bild hinausschaut. In Blickrichtung sollte noch etwas "Raum" auf der Fotografie vorhanden sein. Würde also die Person nach rechts schauen, so sollte sie in der linken Bildhälfte abgebildet sein.
 
-# FILME
+## FILME
 Ich möchte ausdrücklich darauf hinweisen, dass die hier gemachten Angaben über die Diafilme und deren Eignung für bestimmte Zwecke meine persönlichen Eindrücke sind.
 
 Die Eigenschaften der verschiedenen Filme lassen sich grob nach Marken einordnen. Die Aussagen im ganzen Text beziehen sich, sofern nicht anders angegeben, auf Diafilme, dürften aber auch auf Farbnegativfilm übertragbar sein.
@@ -64,31 +64,31 @@ Die Eigenschaften der verschiedenen Filme lassen sich grob nach Marken einordnen
  - **Kodachrome Elite**
     "Der Kommerz-Kodachrome fürs Volk". Etwas wärmere Farbwiedergabe und nicht ganz so extrem wie der Kodachrome. 
 
-# BLITZEN
+## BLITZEN
 Allzu kurze Brennweiten (35mm und darunter) sind nach Möglichkeit zu vermeiden. Viele Blitze können dann nicht mehr voll die Bildecken ausleuchten. Auch wird die Gefahr grösser, dass die Gegenstände im Vordergrund zu hell und diejenigen im Hintergrund zu dunkel abgebildet werden. Vorsicht mit grossen, voluminösen Objektiven. Sie können im Bild Schatten verursachen, besonders, wenn der Blitz sich nahe bei der Objektivachse befindet. Sonnenblenden aus dem gleichen Grund abnehmen.
 
 Ein wichtiger Punkt beim Blitzen ist die Haltung der Kamera. Sie soll so gehalten werden, dass die fotografierte Person nicht ein Schatten "vor dem Gesicht" hat. Um dies zu vermeiden, muss man eventuell die Kamera auf den "Kopf gestellt" halten. Beispiel: wenn die Person nach links schaut, so soll der Blitz sich links von der Objektivachse befinden.
 
 Ich persönlich bin nicht ein Freund des Blitzens. Die Blitzsteureung muss der Automatik anvertraut werden, wenn man nicht eine extrem grosse Erfahrung hat. Dies ist immer problematisch, weil man keine Kontrolle hat. Ausserdem zerstört ein Blitzlicht die Stimmung vom vorhandenen Licht.
 
-# FILTER
+## FILTER
 Die meistgebrauchten Filter sind Farbfilter. Sie verändern die "Farbe" des Bildes. Das meistgebrauchte Farbfilter ist das 80B Blaufilter. Es wird benötigt, um den Gelb-Orange-Farbstich auf Innenaufnahmen bei Kunstlicht zu mindern. Normale Glühbirnen geben ein sehr "warmes", dh. gelbliches, Licht ab. Dieser Filter korrigiert das Licht so, dass es dem normalen Tageslicht näher kommt. UV-Röhren und manche Energiesparlampen geben hingegen einen Grünstich. Dagegen hilft ein Violettfilter an. Farbfilter aller möglichen Farben finden in der Schwarzweissfotografie Anwendung. Sie verändern die Kontraste bestimmter Farben auf dem Schwarzweissfilm.
 
 Ebenfalls recht häufig gebraucht wird ein Pol-Filter (Polarisationsfilter). Es hilft die Kontraste und die Farben bei Aussenaufnahmen im Sonnenlicht zu verbessern. Auch Dunst kann in gewissen Grenzen zum Verschwinden gebracht werden. Vor allem aber vermindert es in starkem Masse Reflexionen auf nichtmetallischen Oberflächen wie zum Beispiel Glas oder Wasser.
 
 Seltener zur Anwendung kommen sogenannte Effektfilter, z.B. Lochfilter, Sternchenfilter, Weichzeichner etc.
 
-# TECHNISCHE INFOS
+## TECHNISCHE INFOS
 Jede Kamera braucht eine gewisse Zeit vom Drücken des Auslösers bis zur Belichtung. Bei einer SLR muss vor dem Belichten zuerst der Spiegel hochgeklappt und die Blende eingestellt werden. Erst dann kann der Verschlussvorhang ablaufen. Bei meiner NIKON F301 dauert es vom Auslösen bis zur Belichtung 114 Millisekunden bei schneller Bildfolge oder 185 Millisekunden bei langsamer Bildfolge.
 
-# REISEFOTOGRAFIE
+## REISEFOTOGRAFIE
 "Kleinbild-Teleskop-Antennen" sind ziemlich praktisch, doch die Bildqualität ist meist nicht über alle Zweifel erhaben, besonders in punkto Schärfe. Falls man nicht gerade Posters anfertigen lassen will, geht es aber gut. Ein Problem ist aber auch die oft grosse Nahdistanz oder das Distanzgefummel in der "Makroeinstellung". Ausserdem sind diese Kameras nicht besonders lichtstark. (f/8 oder so)
 
 Mit einer SLR auf Reisen ist man mit einem oder zwei Zooms am besten beraten. Wegen dem geringeren Platzbedarf und Gewicht tun's auch weniger lichtstarke Objektive. Mit einem Zoom ist man einfach flexibler. Es ist ärgerlich, ein Bild nicht machen zu können, nur weil man nicht gerade das richtige Objektiv draufhatte. Genug Zeit fürs fotografieren einplanen. Das gute Foto braucht oft Zeit.
 
 Ich bin erstaunt, was man mit einer SLR und einem 28erli (28mm Objektiv) alles anstellen kann. Viele gute Israelfotos sind mit diesem Objektiv gemacht worden. Viele Perspektiven muss man mit der vors Auge gehaltenen Kameras aufspüren. Aufmerksam durch die Welt latschen öffnet einem die Augen für so manches Motiv . Viele Varianten ausprobieren. Wie viele Filme soll ich mitnehmen? Die doppelte Menge wie man geplant hat. (kein Scherz!!!)
 
-# FACHBEGRIFFE ERKLÄRT
+## FACHBEGRIFFE ERKLÄRT
 
 Autofokus (AF)
     Automatische Scharfstell-Funktion; hat heutzutage fast jede Kamera. 
