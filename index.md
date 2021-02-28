@@ -7,13 +7,13 @@ Dieser Text behandelt einige wichtige Grundfragen zur Fotografie. Klicken Sie ei
 1. [Gesellschaftsanlass](#Gesellschaftsanlass)
 1. [Konzert](#Konzert)
 1. [Kirchen](#Kirchen)
-1. [Goldener Schnitt](#Goldener Schnitt)
+1. [Goldener Schnitt](#Goldener-Schnitt)
 1. [Filme](#Filme)
 1. [Blitzen](#Blitzen)
 1. [Filter](#Filter)
-1. [Technische Infos](#echnische Infos)
+1. [Technische Infos](#echnische-Infos)
 1. [Reisefotografie](#Reisefotografie)
-1. [Kommentar an den Autor](#Kommentar an den Autor)
+1. [Kommentar an den Autor](#Kommentar-an-den-Autor)
 
 ## PORTRAIT
 Die Standardbrennweite für Portraits beträgt so zwischen 70 und 100 oder auch je nach Situation mehr. Kompaktkameras ohne Zoom haben kurze Brennweiten zwischen 32 und 38mm und sind daher zum Portraitieren meist nicht gerade geeignet. Portraits mit solchen Kameras sollten daher aus einer gewissen Entfernung geschossen werden, so dass der ganze Körper der Person abgebildet ist. Vor allem auch, weil die Nahdistanz meist etwa einen Meter oder mehr beträgt.
@@ -106,15 +106,10 @@ Gesamtbezeichnung für mehrere aufeinanderfolgende Belichtungen.
 Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bedeutet, dass 3 Bilder in der Sekunde belichtet werden. Zwischen den Belichtungen muss natürlich immer der Film transportiert werden. 
 - **Brennweite**  
 Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
-
 ![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)](wide.jpg)
-
 _Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)_
-
 ![Ansicht mir langer Brennweite (Tele-Objektiv)](tele.jpg)
-
 _Ansicht mir langer Brennweite (Tele-Objektiv)_
-
 Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
 - **Blende**  
 Die Blende ist vergleichbar mit der Iris des Auges. Sie reguliert die pro Sekunde einfallende Lichtmenge. Eine grosse Zahl z.B. 22 bedeutet, dass die Blende stark geschlossen ist. Eine kleine Zahl z.B. 2.8 bedeutet, dass sie weit offen ist. 
