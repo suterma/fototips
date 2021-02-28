@@ -44,8 +44,10 @@ Unbedingt ein Stativ mitnehmen und einen feinkörnigen, scharfen Film. z.B. Koda
 Es wirkt meist besonders vorteilhaft, wenn das Hauptmotiv des Bildes nicht genau in der Mitte des Bildes plaziert wird. Auch Maler und andere grafische Künstler wenden das Prinzip des goldenen Schnittes an. Die untenstehende Grafik zeigt die Goldenen Linien und die vier Schnittpunkte. Eine mögliche Anwendung dieses Prinzips zeigt die danebenstehende Fotografie.
 
 ![Darstellung des "Goldenen Schnittes"](cordia.gif)
+__Darstellung des "Goldenen Schnittes"__
 
 ![Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.](astro.jpg)
+__Der Körper des Astronauten befindet sich auf der linken Goldenen Linie, der Kopf und die Füsse auf zwei Schnittpunkten.__
 
 Der Goldene Schnitt teilt die Seiten im Verhältnis von ca. 3:8. Es sollte zudem beachtet werden dass die abgebildete Person nicht zum Bild hinausschaut. In Blickrichtung sollte noch etwas "Raum" auf der Fotografie vorhanden sein. Würde also die Person nach rechts schauen, so sollte sie in der linken Bildhälfte abgebildet sein.
 
@@ -103,8 +105,11 @@ Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bede
 - **Brennweite**  
 Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
 
-![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)"](wide.jpg)
+![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)](wide.jpg)
+__Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)__
+
 ![Ansicht mir langer Brennweite (Tele-Objektiv)](tele.jpg)
+__Ansicht mir langer Brennweite (Tele-Objektiv)__
 
 Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
 - **Blende**  
