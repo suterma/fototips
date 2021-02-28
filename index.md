@@ -105,11 +105,11 @@ Gesamtbezeichnung für mehrere aufeinanderfolgende Belichtungen.
 - **Bildfrequenz**  
 Wie viele Bilder in der Sekunde gemacht werden. Eine Bildfrequenz von 3 B/s bedeutet, dass 3 Bilder in der Sekunde belichtet werden. Zwischen den Belichtungen muss natürlich immer der Film transportiert werden. 
 - **Brennweite**  
-Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.
-![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)](wide.jpg)
-_Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)_
-![Ansicht mir langer Brennweite (Tele-Objektiv)](tele.jpg)
-_Ansicht mir langer Brennweite (Tele-Objektiv)_
+Ein Mass dafür, wie gross der Bildwinkel ist. Oder, anders gesagt, wie nahe die Gegenstände durch den Sucher auf dem Bild erscheinen. Ein Bild mit einer langen Brennweite wirkt wie mit einem Feldstecher, ein mit einer kurzen Brennweite aufgenommenes dagegen wirkt eher wie wenn man weit entfernt stehen würde (wenn sie vom gleichen Standpunkt aus aufgenommen werden.). Die beiden Fotos unten zeigen dies deutlich. Sie sind beide vom genau gleichen Standpunkt aus aufgenommen.  
+![Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)](wide.jpg)  
+_Ansicht mit kuzer Brennweite (Weitwinkel-Objektiv)_  
+![Ansicht mir langer Brennweite (Tele-Objektiv)](tele.jpg)  
+_Ansicht mir langer Brennweite (Tele-Objektiv)_  
 Sollte hingegen ein Gegenstand immer gleich gross abgebildet werden, so müsste man mit einem Weitwinkelobjektiv nahe herantreten, mit einem Teleobjektiv aber einen grösseren Abstand halten. 
 - **Blende**  
 Die Blende ist vergleichbar mit der Iris des Auges. Sie reguliert die pro Sekunde einfallende Lichtmenge. Eine grosse Zahl z.B. 22 bedeutet, dass die Blende stark geschlossen ist. Eine kleine Zahl z.B. 2.8 bedeutet, dass sie weit offen ist. 
