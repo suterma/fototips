@@ -2,6 +2,9 @@
 
 Dieser Text behandelt einige wichtige Grundfragen zur Fotografie. Klicken Sie einfach auf ein Themengebiet, welches Sie interessiert! Sie können den ganzen Text lesen, indem Sie ihn von hier bis zum Schluss durchblättern.
 
+* TOC
+{:toc}
+
 1. [Portrait](#Portrait)
 1. [Landschaft](#Landschaft)
 1. [Gesellschaftsanlass](#Gesellschaftsanlass)
