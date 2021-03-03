@@ -1,22 +1,10 @@
 # KURZE, INFORMATIVE FOTOGRAFIE-TIPS 
+{:.no_toc}
 
 Dieser Text behandelt einige wichtige Grundfragen zur Fotografie. Klicken Sie einfach auf ein Themengebiet, welches Sie interessiert! Sie können den ganzen Text lesen, indem Sie ihn von hier bis zum Schluss durchblättern.
 
 * TOC
 {:toc}
-
-1. [Portrait](#Portrait)
-1. [Landschaft](#Landschaft)
-1. [Gesellschaftsanlass](#Gesellschaftsanlass)
-1. [Konzert](#Konzert)
-1. [Kirchen](#Kirchen)
-1. [Goldener Schnitt](#Goldener-Schnitt)
-1. [Filme](#Filme)
-1. [Blitzen](#Blitzen)
-1. [Filter](#Filter)
-1. [Technische Infos](#echnische-Infos)
-1. [Reisefotografie](#Reisefotografie)
-1. [Kommentar an den Autor](#Kommentar-an-den-Autor)
 
 ## PORTRAIT
 Die Standardbrennweite für Portraits beträgt so zwischen 70 und 100 oder auch je nach Situation mehr. Kompaktkameras ohne Zoom haben kurze Brennweiten zwischen 32 und 38mm und sind daher zum Portraitieren meist nicht gerade geeignet. Portraits mit solchen Kameras sollten daher aus einer gewissen Entfernung geschossen werden, so dass der ganze Körper der Person abgebildet ist. Vor allem auch, weil die Nahdistanz meist etwa einen Meter oder mehr beträgt.
